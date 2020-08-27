@@ -1,5 +1,5 @@
 
-Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistemas para Internet e atualmente estudo para me tornar *Desenvolvedor Full Stack Júnior* na *Trybe* :rocket:.
+Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistemas para Internet e atualmente estudo para me tornar __Desenvolvedor Full Stack Júnior__ na __Trybe__ :rocket:.
 
 - :man_technologist: Desenvolvedor back-end;
 - :mortar_board: :notebook: Estudande de desenvolvimento web;
