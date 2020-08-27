@@ -15,6 +15,6 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 - CSS & HTML
 - MySQL
 
-*Contato*
+_Contato_
 
 [J. Lennon Silva de oliveira](https://www.linkedin.com/in/johnlennondeoliveira/)
