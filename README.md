@@ -4,7 +4,7 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 - :man_technologist: Desenvolvedor back-end;
 - :mortar_board: :notebook: Estudande de desenvolvimento web;
 - :heart: :muscle: Sou apaixonado por tecnologia e acredito muito no esforço e trabalho contínuo;
-- Penso que o trabalho em equipe é essencial para atingir objetivos maiores. 
+- Penso que o trabalho em equipe é essencial para atingirmos nossos objetivos. 
 
 #### _Hard Skills_ ####
 
