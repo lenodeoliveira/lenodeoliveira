@@ -1,4 +1,3 @@
-# J. Lennon S. de Oliveira 
 
 Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistemas para Internet e atualmente estudo para me tornar * Desenvolvedor Full Stack Júnior * na * Trybe * :rocket:.
 
