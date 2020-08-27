@@ -6,7 +6,7 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 - :heart: :muscle: Sou apaixonado por tecnologia e acredito muito no esforço e trabalho contínuo;
 - Penso que o trabalho em equipe é essencial para atingir objetivos maiores. 
 
-### _Hard Skills_ ###
+#### _Hard Skills_ ####
 
 - PHP
 - C#
