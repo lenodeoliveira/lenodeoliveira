@@ -6,7 +6,9 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 - :heart: :muscle: Sou apaixonado por tecnologia e acredito muito no esforço e trabalho contínuo;
 - Penso que o trabalho em equipe é essencial para atingirmos nossos objetivos. Estou sempre disposto a ajudar :smiley:.
 
-#### _Hard Skills_ ####
+#### _Tecnologias_ ####
+
+<img alt="logo-php" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/21336683/107077371-7ee6a980-67cb-11eb-8eb6-9042d4a9b5fe.png" width="70" height="70"/>
 
 - PHP
 - C#
@@ -18,7 +20,5 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 __Contato__
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/johnlennondeoliveira/)](https://www.linkedin.com/in/johnlennondeoliveira/)
-
-
 
 
