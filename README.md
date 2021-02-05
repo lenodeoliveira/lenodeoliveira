@@ -20,6 +20,9 @@ __Contato__
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/johnlennondeoliveira/)](https://www.linkedin.com/in/johnlennondeoliveira/)
 
 
+![alt text](https://github.com/lenodeoliveira/lenodeoliveira/images/master/codigo-php.png?raw=true)
+
+
 
 
 
