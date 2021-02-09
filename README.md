@@ -28,4 +28,4 @@ __Contato__
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/johnlennondeoliveira/)](https://www.linkedin.com/in/johnlennondeoliveira/)
 
 
-![Lennon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true)
+![Lennon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical)
