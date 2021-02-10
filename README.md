@@ -28,6 +28,7 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 
 
 <p align="left"> 
+ <p>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a></p>
 
 
@@ -36,5 +37,8 @@ __Contato__
 <br>
 <a href="https://www.linkedin.com/in/johnlennondeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/johnlennondeoliveira/" height="50" width="50" /></a>
 
-![Lennon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical" alt="lenodeoliveira"  /></p>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira"  /></p>
