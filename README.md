@@ -11,9 +11,9 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" align="left" /> </a>
 
- <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70" align="left"/> </a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70" align="left"/> </a>
 
-<img alt="logo-react" src="https://user-images.githubusercontent.com/21336683/107079277-5d3af180-67ce-11eb-9772-b18d3254b3a3.png" width="70" height="70" align="left"/>  
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" align="left"/> </a> 
 
 <img alt="logo-redux" src="https://user-images.githubusercontent.com/21336683/107079387-8fe4ea00-67ce-11eb-9d34-a1f4a76f5784.png" width="70" height="70" align="left"/>  
 
@@ -28,8 +28,6 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 
 
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
-</a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a></p>
 
 
