@@ -47,7 +47,7 @@ __Contato__
 <a href="https://www.linkedin.com/in/johnlennondeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/johnlennondeoliveira/" height="50" width="50" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical" alt="lenodeoliveira"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical" alt="lenodeoliveira" height="450" width="450" /></p>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira"  /></p>
