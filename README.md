@@ -33,10 +33,7 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 
 
 __Contato__
-<br>
-<span>Lennon</span>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/johnlennondeoliveira/)](https://www.linkedin.com/in/johnlennondeoliveira/)
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/johnlennondeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/johnlennondeoliveira/" height="70" width="70" /></a>
 
 ![Lennon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira" /></p>
