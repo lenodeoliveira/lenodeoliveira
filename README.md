@@ -23,6 +23,15 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 
 <img alt="logo-mysql" src="https://user-images.githubusercontent.com/21336683/107079572-ccb0e100-67ce-11eb-8318-0710a735d047.png" width="70" height="70"/>  
 
+
+
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
+</a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a></p>
+
+
+
 __Contato__
 <br>
 <span>Lennon</span>
