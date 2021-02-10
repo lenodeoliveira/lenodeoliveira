@@ -15,16 +15,25 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" align="left"/> </a> 
 
+<a href="https://redux.js.org" target="_blank">
 <img alt="logo-redux" src="https://user-images.githubusercontent.com/21336683/107079387-8fe4ea00-67ce-11eb-9d34-a1f4a76f5784.png" width="70" height="70" align="left"/>  
+</a>
 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
 <img alt="logo-html" src="https://user-images.githubusercontent.com/21336683/107079628-e2260b00-67ce-11eb-9f6c-82d3bb6a2e5e.png" width="70" height="70" align="left"/>  
+</a>
 
+<a href="https://www.w3schools.com/css/" target="_blank">
 <img alt="logo-css" src="https://user-images.githubusercontent.com/21336683/107079727-0681e780-67cf-11eb-97f4-3e509586aaf4.png" width="70" height="70" align="left"/>  
+</a>
 
+<a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank">
 <img alt="logo-php" src="https://user-images.githubusercontent.com/21336683/107077371-7ee6a980-67cb-11eb-8eb6-9042d4a9b5fe.png" width="70" height="70" align="left"/>
+</a>
 
+<a href="https://www.mysql.com" target="_blank">
 <img alt="logo-mysql" src="https://user-images.githubusercontent.com/21336683/107079572-ccb0e100-67ce-11eb-8318-0710a735d047.png" width="70" height="70"/>  
-
+</a>
 
 
 <p align="left"> 
