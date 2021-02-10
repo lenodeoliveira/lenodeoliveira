@@ -9,7 +9,9 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 #### _Tecnologias_ ####
 
 
-<img alt="logo-js" src="https://user-images.githubusercontent.com/21336683/107079027-0208ff00-67ce-11eb-92d9-f26375cb014e.png" width="70" height="70" align="left"/>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" align="left" /> </a>
+
+ <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70" align="left"/> </a>
 
 <img alt="logo-react" src="https://user-images.githubusercontent.com/21336683/107079277-5d3af180-67ce-11eb-9772-b18d3254b3a3.png" width="70" height="70" align="left"/>  
 
@@ -31,11 +33,10 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a></p>
 
 
-
 __Contato__
 <br>
 <br>
 <a href="https://www.linkedin.com/in/johnlennondeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/johnlennondeoliveira/" height="50" width="50" /></a>
 
 ![Lennon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira" /></p>
