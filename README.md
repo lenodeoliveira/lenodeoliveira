@@ -24,8 +24,11 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 <img alt="logo-mysql" src="https://user-images.githubusercontent.com/21336683/107079572-ccb0e100-67ce-11eb-8318-0710a735d047.png" width="70" height="70"/>  
 
 __Contato__
-
+<br>
+<span>Lennon</span>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/johnlennondeoliveira/)](https://www.linkedin.com/in/johnlennondeoliveira/)
 
 
 ![Lennon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenodeoliveira&theme=radical" alt="lenodeoliveira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira" /></p>
