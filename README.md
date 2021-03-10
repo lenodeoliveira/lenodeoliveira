@@ -1,7 +1,7 @@
 
 Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistemas para Internet e atualmente estudo para me tornar __Desenvolvedor Full Stack Júnior__ na __Trybe__ :rocket:.
 
-- :man_technologist: Desenvolvedor back-end;
+- :man_technologist: Desenvolvedor Front-end Jr;
 - :mortar_board: :notebook: Estudande de desenvolvimento web;
 - :heart: :muscle: Sou apaixonado por tecnologia e acredito muito no esforço e trabalho contínuo;
 - Penso que o trabalho em equipe é essencial para atingirmos nossos objetivos. Estou sempre disposto a ajudar :smiley:.
