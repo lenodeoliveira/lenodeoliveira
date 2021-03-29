@@ -4,6 +4,7 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 - :man_technologist: Desenvolvedor Front-end Jr;
 - :mortar_board: :notebook: Estudande de desenvolvimento web;
 - :heart: :muscle: Sou apaixonado por tecnologia e acredito muito no esforço e trabalho contínuo;
+- :memo: Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1spapudoMRvfIxSBbyWw3AzBzh31kR3go/view?usp=sharing) para obter mais informações.
 - Penso que o trabalho em equipe é essencial para atingirmos nossos objetivos. Estou sempre disposto a ajudar :smiley:.
 
 #### _Tecnologias_ ####
@@ -45,6 +46,7 @@ __Contato__
 <br>
 <br>
 <a href="https://www.linkedin.com/in/johnlennondeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/johnlennondeoliveira/" height="50" width="50" /></a>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical" alt="lenodeoliveira"  width="450" /></p>
