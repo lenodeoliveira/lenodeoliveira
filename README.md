@@ -38,7 +38,7 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 
 
 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" align="left"/> </a>
+
 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" align="left"/> </a> 
 
