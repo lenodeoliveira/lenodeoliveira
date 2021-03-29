@@ -33,8 +33,8 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 </a>
 
 <a href="https://www.mysql.com" target="_blank">
-<img alt="logo-mysql" src="https://user-images.githubusercontent.com/21336683/107079572-ccb0e100-67ce-11eb-8318-0710a735d047.png" width="50" height="50"/>  
-</a>
+<img alt="logo-mysql" src="https://user-images.githubusercontent.com/21336683/107079572-ccb0e100-67ce-11eb-8318-0710a735d047.png" width="50" height="50" align="left"/>  
+
 
 
 
