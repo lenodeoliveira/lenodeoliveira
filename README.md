@@ -56,4 +56,4 @@ __Contato__
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lenodeoliveira&show_icons=true&theme=radical" alt="lenodeoliveira"  width="450" /></p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira"  /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira"  /></p>
