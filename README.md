@@ -1,5 +1,5 @@
 
-Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistemas para Internet e __Desenvolvedor Full Stack Júnior__ na Aurea Tecnologia :rocket:.
+Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistemas para Internet e __Desenvolvedor Full Stack Júnior__  :rocket:.
 
 - :man_technologist: Desenvolvedor Full Stack Jr;
 - :mortar_board: :notebook: Estudande de desenvolvimento web;
