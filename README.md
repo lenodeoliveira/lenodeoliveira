@@ -4,7 +4,7 @@ Olá, me chamo Lennon, sou de Eldorado do Sul/RS, Brasil. Sou formado em Sistema
 - :man_technologist: Desenvolvedor Full Stack Jr;
 - :mortar_board: :notebook: Estudande de desenvolvimento web;
 - :heart: :muscle: Sou apaixonado por tecnologia e acredito muito no esforço e trabalho contínuo;
-- :memo: Veja meu <a href="https://drive.google.com/file/d/12uJ6jnAhqIrKD-Q_DHTwON2a-3k6toVD/view" target="_blank">Curriculum Vitae</a> para obter mais informações;
+- :memo: Veja meu <a href="https://drive.google.com/file/d/1VfuScbko-LKpVlcRIIfk8xHyz1NcUM4W/view?usp=sharing" target="_blank">Curriculum Vitae</a> para obter mais informações;
 - Penso que o trabalho em equipe é essencial para atingirmos nossos objetivos. Estou sempre disposto a ajudar :smiley:.
 
 #### _Tecnologias_ ####
