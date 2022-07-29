@@ -1,5 +1,5 @@
 
-Hello, my name is Lennon, I'm from Eldorado do Sul/RS, Brazil. I have a degree in Internet Systems and Junior Full Stack Developer 🚀.
+Hello, my name is Lennon, I'm from Palhoça/SC, Brazil. I have a degree in Internet Systems and Junior Full Stack Developer 🚀.
 
 - :man_technologist: Full Stack Jr Developer;
 - :mortar_board: :notebook: Eternal student;
