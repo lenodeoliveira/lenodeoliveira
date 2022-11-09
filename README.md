@@ -1,11 +1,10 @@
 
-Hello, my name is Lennon, I'm from Palhoça/SC, Brazil. I have a degree in Internet Systems and Junior Full Stack Developer 🚀.
+Hello, my name is Lennon, I'm from Palhoça/SC, Brazil. I have a degree in Internet Systems and Full Stack Developer 🚀.
 
 - :man_technologist: Full Stack Jr Developer;
 - :mortar_board: :notebook: Eternal student;
+- :hourglass_flowing_sand: Learning Golang;
 - :heart: :muscle: I am passionate about technology and I strongly believe in continuous effort and work;
-- :memo: See my <a href="https://drive.google.com/file/d/1VfuScbko-LKpVlcRIIfk8xHyz1NcUM4W/view?usp=sharing" target="_blank">Resume</a> for more information;
-
 
 __Contact__
 <br>
