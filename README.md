@@ -11,6 +11,7 @@ __Contact__
 <br>
 <a href="https://www.linkedin.com/in/johnlennondeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/johnlennondeoliveira/" height="50" width="50" /></a>
 
+Email: lenodeoliveira@gmail.com
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lenodeoliveira&show_icons=true&theme=radical" alt="lenodeoliveira"  width="450" /></p>
