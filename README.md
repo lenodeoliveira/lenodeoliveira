@@ -1,10 +1,28 @@
 
-Hello, my name is Lennon, I'm from Palhoça/SC, Brazil. I have a degree in Internet Systems and Full Stack Developer 🚀.
+Hello, my name is Lennon!
 
-- :man_technologist: Software engineer;
-- :mortar_board: :notebook: Eternal student;
-- :hourglass_flowing_sand: learning Golang and gRPC;
-- :heart: :muscle: I am passionate about technology and I strongly believe in continuous effort and work;
+Full software engineer, trained in internet systems.
+I currently work with educational systems for higher education.
+I am communicative, dedicated and very hardworking.
+I'm studying to become a software architect.
+
+<br>
+:man_technologist: Technologies:
+<br>
+<br>
+
+- Node.JS;
+- React;
+- NestJS;
+- Javascript;
+- Typescript;
+- Jest;
+- Amazon Web Services;
+- REST API
+- Mysql;
+- Circleci;
+- PostgreSQL;
+- MongoDB;
 
 __Contact__
 <br>
