@@ -1,8 +1,8 @@
 
 Hello, my name is Lennon!
 
-Full software engineer, trained in internet systems.
-I currently work with educational systems for higher education.
+Full software engineer, with a degree in internet systems.
+I currently work on a SaaS system for education.
 I am communicative, dedicated and very hardworking.
 I'm studying to become a software architect.
 
