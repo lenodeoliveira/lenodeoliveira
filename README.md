@@ -6,6 +6,8 @@ I currently work on a SaaS system for education.
 I am communicative, dedicated and very hardworking.
 I'm studying to become a software architect.
 
+I'm currently learning Java :grin:
+
 <br>
 :man_technologist: Technologies:
 <br>
