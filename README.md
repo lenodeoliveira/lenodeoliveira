@@ -1,5 +1,5 @@
 
-Hello, my name is John!
+Hello, my name is Lennon!
 
 Full software engineer, with a degree in internet systems.
 I currently work on a SaaS system for education.
