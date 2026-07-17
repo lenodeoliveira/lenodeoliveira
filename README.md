@@ -128,24 +128,6 @@ Topics:
 - Machine Learning
 - System Design
 
----
-
-## GitHub Stats
-
-<p>
-<img
-src="https://github-readme-stats.vercel.app/api?username=lenodeoliveira&show_icons=true&theme=github_dark&hide_border=true"
-/>
-</p>
-
-<p>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenodeoliveira&layout=compact&theme=github_dark&hide_border=true"
-/>
-</p>
-
----
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/johnlennondeoliveira/
