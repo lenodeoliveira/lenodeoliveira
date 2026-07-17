@@ -64,49 +64,6 @@ Current goal:
 
 ---
 
----
-
-## Featured Projects
-
-### Corvo-Zap
-
-> Medieval messenger application built with NestJS and React Native.
-
-Features:
-
-- Message encryption
-- Delivery tracking
-- JWT Authentication
-- Distance calculation between cities
-
-
-### NestJS Logs
-
-> Structured logging toolkit for NestJS applications.
-
-Features:
-
-- Winston integration
-- Reusable package
-- Distributed services support
-
-
-### Payment Systems & Checkout Architecture
-
-> Designing payment systems using microservices and event-driven architectures.
-
-Topics:
-
-- AWS
-- SQS
-- SNS
-- API Gateway
-- Distributed Systems
-- Scalability
-
-
----
-
 ## Certifications
 
 | Certification | Status |
