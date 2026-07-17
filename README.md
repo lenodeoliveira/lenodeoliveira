@@ -51,19 +51,18 @@ Current goal:
 
 ## Currently Learning
 
-```text
-AWS Solutions Architect Associate
-██████████░░░░░░░░░░
+---
 
-AI Engineering
-███████░░░░░░░░░░░░
+### <span style="color:#7fd962">></span> <span style="color:#39bae6">learning</span>
 
-Machine Learning
-██████░░░░░░░░░░░░░
+| Track | Progress |
+| --- | --- |
+| AWS Solutions Architect Associate | `█████░░░░░` 50% |
+| AI Engineering | `████░░░░░░` 35% |
+| Machine Learning | `███░░░░░░░` 30% |
+| English (A2 → B2) | `██████░░░░` 60% |
 
-English (A2 -> B2)
-████████████░░░░░░
-```
+---
 
 ---
 
