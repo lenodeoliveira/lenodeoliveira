@@ -1,40 +1,64 @@
+# Hello, I'm John Lennon Oliveira 👋
 
-Hello, my name is Lennon!
+Software Engineer with 6+ years of experience building scalable applications and distributed systems.
 
-Full software engineer, with a degree in internet systems.
-I currently work on a SaaS system for education.
-I am communicative, dedicated and very hardworking.
-I'm studying to become a software architect.
+I currently work on SaaS products in the education industry, focusing on backend development, cloud architecture and microservices. My main interests are software architecture, event-driven systems, cloud computing and AI engineering.
 
-I'm currently learning Java :grin:
+I'm currently studying:
 
-<br>
-:man_technologist: Technologies:
-<br>
-<br>
+* AWS Solutions Architect Associate
+* AI Engineering and Machine Learning
+* Software Architecture and Distributed Systems
+* Advanced English for international opportunities
 
-- Node.JS;
-- React;
-- NestJS;
-- Javascript;
-- Typescript;
-- Jest;
-- Amazon Web Services;
-- REST API
-- Mysql;
-- Circleci;
-- PostgreSQL;
-- MongoDB;
+## What I work with
 
-__Contact__
-<br>
-<br>
-<a href="https://www.linkedin.com/in/johnlennondeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/johnlennondeoliveira/" height="50" width="50" /></a>
+* Backend Engineering (Node.js, NestJS, TypeScript)
+* Cloud Computing (AWS)
+* Microservices Architecture
+* Event-Driven Systems
+* REST APIs
+* Payment Systems
+* System Design
 
-Email: lenodeoliveira@gmail.com
+## Tech Stack
 
+* Node.js
+* TypeScript
+* NestJS
+* JavaScript
+* AWS
+* MySQL
+* PostgreSQL
+* MongoDB
+* React
+* Docker
+* Jest
+* CircleCI
+* Git & GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lenodeoliveira&show_icons=true&theme=radical" alt="lenodeoliveira"  width="450" /></p>
+## Current Focus
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenodeoliveira&theme=radical&show_icons=true&locale=en&layout=compact" alt="lenodeoliveira"  /></p>
+* Designing scalable and distributed systems
+* Building cloud-native applications on AWS
+* Studying AI Engineering and Machine Learning
+* Improving software architecture skills
+
+## Featured Interests
+
+* Cloud Architecture
+* Distributed Systems
+* Event-Driven Architectures
+* Microservices
+* Artificial Intelligence
+* Software Architecture
+* System Design
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/johnlennondeoliveira/
+* Email: [lenodeoliveira@gmail.com](mailto:lenodeoliveira@gmail.com)
+
+---
+
+> "Always building, always learning."
